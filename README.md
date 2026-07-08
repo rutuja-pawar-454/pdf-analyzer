@@ -47,7 +47,7 @@ https://pdf-analyzer-frontend-i4v3.onrender.com
 ---
 
 ## 📁 Project Structure
-
+```text
 PDF-Analyzer/
 │
 ├── backend/
